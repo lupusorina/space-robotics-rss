@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: ""
   - title: "Venue"
-    url: /venue/
+    url: venue/
   - title: "Schedule"
-    url: /schedule/
+    url: schedule/

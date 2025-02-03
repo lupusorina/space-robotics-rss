@@ -3,11 +3,10 @@ include: ["_pages"]
 title: "RSS 2025: Space Robotics Workshop"
 email: test@test.com
 desicption: test
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/space-robotics-rss" # the subpath of your site, e.g. /blog
 url: "https://albee.github.io"
 
 # Build settings
-baseurl: ""
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
