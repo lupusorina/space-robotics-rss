@@ -1,0 +1,50 @@
+include: ["_pages"]
+
+title: Keenan Albee
+email: test@test.com
+desicption: test
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://albee.github.io"
+
+# Build settings
+baseurl: ""
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
+minimal_mistakes_skin: "" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# teaser: /assets/images/albee_astrobee.png
+# logo: /assets/images/albee_astrobee.png
+masthead_title: "Keenan Albee"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      custom_stylesheet: assets/css/custom.css
+
+atom_feed:
+  hide: true
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kalbee/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/albee"
+    - label: "GoogleScholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=msRla_0AAAAJ&hl=en"
+
+collections:
+  publications:
+    source: _publications
+    output: true
+    permalink: /publications/:title/
+    sort_by: "year"
+    order: "descending"
