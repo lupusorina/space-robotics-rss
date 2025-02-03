@@ -1,6 +1,6 @@
 include: ["_pages"]
 
-title: Keenan Albee
+title: "RSS 2025: Space Robotics Workshop"
 email: test@test.com
 desicption: test
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,7 +16,7 @@ minimal_mistakes_skin: "" #, "aqua", "contrast", "dark", "dirt", "neon", "mint",
 
 # teaser: /assets/images/albee_astrobee.png
 # logo: /assets/images/albee_astrobee.png
-masthead_title: "Keenan Albee"
+masthead_title: "RSS 2025: Space Robotics Workshop"
 
 defaults:
   # _pages
@@ -29,22 +29,3 @@ defaults:
 
 atom_feed:
   hide: true
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/kalbee/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/albee"
-    - label: "GoogleScholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=msRla_0AAAAJ&hl=en"
-
-collections:
-  publications:
-    source: _publications
-    output: true
-    permalink: /publications/:title/
-    sort_by: "year"
-    order: "descending"

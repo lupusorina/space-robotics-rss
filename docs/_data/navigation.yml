@@ -2,9 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /assets/pdfs/keenan_albee_cv_2024_10.pdf
+  - title: "Venue"
+    url: /venue/
+  - title: "Schedule"
+    url: /schedule/
