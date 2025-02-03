@@ -1,6 +1,6 @@
-# albee-research-site
+# space-robotics-rss
 
-This is a Jekyll-based static site for my research work!
+Website for RSS 2025 Space Robotics Workshop
 
 ## Details
 
