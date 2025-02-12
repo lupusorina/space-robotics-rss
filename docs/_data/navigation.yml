@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: ""
+    url: "/"
+  - title: "About"
+    url: about/
   - title: "Venue"
     url: venue/
   - title: "Schedule"

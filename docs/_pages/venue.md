@@ -6,7 +6,7 @@ permalink: /venue/
 comments: true
 ---
 
-### Venue
+>The 21st edition of the [“Robotics: Science and Systems” (RSS) conference](https://roboticsconference.org/) will be held at the University of Southern California, Los Angeles, California from June 21-25, 2025. After being hosted at the University of Southern California in 2011, RSS returns to LA in 2025! RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas ante eu mattis blandit. Integer tristique leo nec nunc hendrerit vestibulum. Curabitur et orci libero. Etiam in vehicula lorem. Nam enim dolor, vehicula at euismod hendrerit, luctus sed lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque vitae consequat urna. Curabitur pulvinar tristique dapibus. Donec dignissim pretium ipsum vitae imperdiet. Nunc faucibus dapibus magna ac condimentum. Aliquam faucibus metus id ligula consectetur, a sagittis nunc fringilla. Aenean lobortis neque nisl, eget tincidunt velit faucibus sed. Suspendisse accumsan dui massa, ac rhoncus nulla dignissim nec. Sed ligula odio, vestibulum porttitor condimentum nec, aliquet lobortis nisi. Praesent ut pulvinar orci. Etiam nec diam erat.
+
 
