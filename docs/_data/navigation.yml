@@ -2,9 +2,11 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: about/
   - title: "Venue"
     url: venue/
   - title: "Schedule"
     url: schedule/
+  - title: "Organizers"
+    url: organizers/
+  - title: "Invited Talks"
+    url: invited_talks/
