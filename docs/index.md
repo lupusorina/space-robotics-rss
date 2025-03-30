@@ -1,5 +1,5 @@
 ---
-title:  "home"
+title:  "RSS Space Robotics 2025"
 layout: splash
 classes: wide
 permalink: "/"

@@ -7,7 +7,7 @@ permalink: /organizers/
 
 <div class="organizers-row">
   <div class="organizer-item">
-    <img src="{{ site.baseurl }}/assets/images/organizers/albee.png" alt="Keenan Albee">
+    <img src="{{ site.baseurl }}/assets/images/organizers/albee.jpg" alt="Keenan Albee">
     <h3> <a href="https://albee.github.io">Prof. Keenan Albee</a></h3>
     <p>University of Southern California</p>
   </div>
