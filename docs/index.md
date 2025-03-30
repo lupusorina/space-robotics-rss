@@ -16,9 +16,7 @@ In recent years, there has been a renewed surge of interest in microgravity and 
 
 | Date | Event |
 |------|-------|
-| TBD | Workshop Proposal Submission Deadline |
-| TBD | Workshop Acceptance Notification |
-| TBD | Paper Submission Deadline |
-| TBD | Paper Acceptance Notification |
-| TBD | Camera-ready Paper Deadline |
-| TBD | Workshop Date |
+| Paper Submission Deadline | April 25, 2025, 11:59PM (Anywhere on Earth) |
+| Paper Acceptance Notification | May 9, 2025|
+| Camera-ready Paper Deadline | May 30, 2025, 11:59PM (Anywhere on Earth) |
+| Workshop Date | June 21, 2025|

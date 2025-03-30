@@ -5,148 +5,75 @@ classes: wide
 permalink: /organizers/
 ---
 
-### Workshop Organizers
+<div class="organizers-row">
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/organizers/albee.png" alt="Keenan Albee">
+    <h3> <a href="https://albee.github.io">Prof. Keenan Albee</a></h3>
+    <p>University of Southern California</p>
+  </div>
 
-<div class="notice--info">
-  <div class="grid__wrapper">
-    <div class="grid__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <div class="grid__wrapper">
-              <div class="grid__item">
-                <div class="archive__item-teaser">
-                  <img src="{{ site.baseurl }}/assets/images/organizers/albee.png" alt="TBD">
-                </div>
-              </div>
-              <div class="grid__item">
-                <h2 class="archive__item-title">Prof. Keenan Albee</h2>
-                <p class="archive__item-excerpt">Assistant Professor, University of Southern California</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/organizers/Cauligi.jpg" alt="Abhishek Cauligi">
+    <h3> <a href="https://acauligi.github.io">Prof. Abhishek Cauligi</a></h3>
+    <p>Johns Hopkins</p>
+  </div>
+
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/organizers/ono.jpg" alt="Hiro Ono">
+    <h3> <a href="https://hiroono.com/en/">Dr. Hiro Ono</a></h3>
+    <p>Jet Propulsion Lab</p>
   </div>
 </div>
 
-<div class="notice--info">
-  <div class="grid__wrapper">
-    <div class="grid__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <div class="grid__wrapper">
-              <div class="grid__item">
-                <div class="archive__item-teaser">
-                  <img src="{{ site.baseurl }}/assets/images/organizers/Cauligi.jpg" alt="TBD">
-                </div>
-              </div>
-              <div class="grid__item">
-                <h2 class="archive__item-title">Prof. Abhishek Cauligi</h2>
-                <p class="archive__item-excerpt">Assistant Professor, Johns Hopkins University</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="organizers-row">
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/organizers/manchester.jpg" alt="Zac Manchester">
+    <h3> <a href="https://rexlab.ri.cmu.edu">Prof. Zac Manchester</a></h3>
+    <p>Carnegie Mellon</p>
+  </div>
+
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/organizers/nakka.webp" alt="Yashwant Nakka">
+    <h3> <a href="https://aerospaceroboticslab.ae.gatech.edu">Prof. Yash Nakka</a></h3>
+    <p>Georgia Tech</p>
+  </div>
+
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/organizers/lupu.jpg" alt="Sorina Lupu">
+    <h3>Sorina Lupu</h3>
+    <p>Caltech</p>
   </div>
 </div>
 
-<div class="notice--info">
-  <div class="grid__wrapper">
-    <div class="grid__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <div class="grid__wrapper">
-              <div class="grid__item">
-                <div class="archive__item-teaser">
-                  <img src="{{ site.baseurl }}/assets/images/organizers/ono.jpg" alt="TBD">
-                </div>
-              </div>
-              <div class="grid__item">
-                <h2 class="archive__item-title">Dr. Hiro Ono</h2>
-                <p class="archive__item-excerpt">Group Supervisor, Robotic Surface Mobility Group, Jet Propulsion Lab</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+<style>
+.organizers-row {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+}
 
-<div class="notice--info">
-  <div class="grid__wrapper">
-    <div class="grid__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <div class="grid__wrapper">
-              <div class="grid__item">
-                <div class="archive__item-teaser">
-                  <img src="{{ site.baseurl }}/assets/images/organizers/manchester.jpg" alt="TBD">
-                </div>
-              </div>
-              <div class="grid__item">
-                <h2 class="archive__item-title">Prof. Zac Manchester</h2>
-                <p class="archive__item-excerpt">Assitant Professor, Carnegie Mellon University</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> 
+.organizer-item {
+  text-align: center;
+  width: 150px;
+}
 
-<div class="notice--info">
-  <div class="grid__wrapper">
-    <div class="grid__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <div class="grid__wrapper">
-              <div class="grid__item">
-                <div class="archive__item-teaser">
-                  <img src="{{ site.baseurl }}/assets/images/organizers/nakka.webp" alt="TBD">
-                </div>
-              </div>
-              <div class="grid__item">
-                <h2 class="archive__item-title">Prof. Yashwant Nakka</h2>
-                <p class="archive__item-excerpt">Assitant Professor, Georgia Tech</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> 
+.organizer-item img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.5rem;
+}
 
-<div class="notice--info">
-  <div class="grid__wrapper">
-    <div class="grid__item">
-      <div class="archive__item">
-        <div class="archive__item-body">
-          <div class="archive__item-excerpt">
-            <div class="grid__wrapper">
-              <div class="grid__item">
-                <div class="archive__item-teaser">
-                  <img src="{{ site.baseurl }}/assets/images/organizers/lupu.jpg" alt="TBD">
-                </div>
-              </div>
-              <div class="grid__item">
-                <h2 class="archive__item-title">Sorina Lup</h2>
-                <p class="archive__item-excerpt">PhD. Candidate, Caltech</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> 
+.organizer-item h3 {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--usc-red);
+}
+
+.organizer-item p {
+  margin: 0;
+  font-size: 0.5rem;
+  color: var(--usc-gray);
+}
+</style> 
