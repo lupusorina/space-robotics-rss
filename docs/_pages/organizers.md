@@ -40,7 +40,7 @@ permalink: /organizers/
 
   <div class="organizer-item">
     <img src="{{ site.baseurl }}/assets/images/organizers/lupu.jpg" alt="Sorina Lupu">
-    <h3>Sorina Lupu</h3>
+    <h3>Dr. Sorina Lupu</h3>
     <p>Caltech</p>
   </div>
 </div>

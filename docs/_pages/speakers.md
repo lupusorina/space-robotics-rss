@@ -17,6 +17,12 @@ permalink: /speakers/
     <h3> <a href="https://sites.google.com/usc.edu/roboland">Prof. Feifei Qian</a></h3>
     <p>University of Southern California</p>
   </div>
+
+  <div class="organizer-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/jp.jpg" alt="Dr. Jean-Pierre de la Croix">
+    <h3> <a href="https://robotics.jpl.nasa.gov/who-we-are/people/jean-pierre_de-la-croix/">Dr. Jean-Pierre de la Croix</a></h3>
+    <p>Jet Propulsion Laboratory</p>
+  </div>
 </div>
 
 
