@@ -1,6 +1,5 @@
 include: ["_pages"]
 
-title: "RSS 2025: Space Robotics Workshop"
 email: test@test.com
 desicption: test
 baseurl: "/space-robotics-rss" # the subpath of your site, e.g. /blog
@@ -10,12 +9,12 @@ url: "https://albee.github.io"
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
-minimal_mistakes_skin: "" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" #, "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # teaser: /assets/images/albee_astrobee.png
 # logo: /assets/images/albee_astrobee.png
-masthead_title: "RSS 2025: Space Robotics Workshop"
 
 defaults:
   # _pages
@@ -24,7 +23,6 @@ defaults:
       type: pages
     values:
       layout: single
-      custom_stylesheet: assets/css/custom.css
 
 atom_feed:
   hide: true
