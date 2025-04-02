@@ -16,7 +16,7 @@ In recent years, there has been a renewed surge of interest in microgravity and 
 
 | Date | Event |
 |------|-------|
-| Paper Submission Deadline | April 25, 2025, 11:59PM (Anywhere on Earth) |
+| Paper Submission Deadline | May 2, 2025, 11:59PM (Anywhere on Earth) |
 | Paper Acceptance Notification | May 9, 2025|
 | Camera-ready Paper Deadline | May 30, 2025, 11:59PM (Anywhere on Earth) |
 | Workshop Date | June 21, 2025|
