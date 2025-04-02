@@ -34,7 +34,7 @@ permalink: /organizers/
 
   <div class="organizer-item">
     <img src="{{ site.baseurl }}/assets/images/organizers/nakka.webp" alt="Yashwant Nakka">
-    <h3> <a href="https://aerospaceroboticslab.ae.gatech.edu">Prof. Yash Nakka</a></h3>
+    <h3> <a href="https://aerospaceroboticslab.ae.gatech.edu">Prof. Yashwant Nakka</a></h3>
     <p>Georgia Tech</p>
   </div>
 
