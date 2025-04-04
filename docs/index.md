@@ -5,7 +5,7 @@ classes: wide
 permalink: "/"
 comments: true
 header:
-  image: /assets/images/rss_space_robotics.png
+  image: /assets/images/header.png
 ---
 
 ### RSS Space Robotics 2025
