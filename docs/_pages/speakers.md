@@ -47,7 +47,7 @@ permalink: /speakers/
   <div class="speaker-item">
     <img src="{{ site.baseurl }}/assets/images/speakers/kwok.jpg" alt="Sofia Kwok">
     <h3> <a href="https://sites.google.com/view/sofiakwok/home">Sofia Kwok</a></h3>
-    <p>University of Washington</p>
+    <p>Starfish Space</p>
   </div>
 </div>
 
