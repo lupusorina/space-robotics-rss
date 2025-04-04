@@ -28,3 +28,4 @@ Submissions will be selected based upon their technical merit and innovation, re
 * Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/).
 * Reviews will single-blind.
 * Accepted papers will be presented as posters.
+* A *best student paper award* will be presented.
