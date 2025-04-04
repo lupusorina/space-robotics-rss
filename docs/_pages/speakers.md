@@ -31,6 +31,24 @@ permalink: /speakers/
     <h3> Dr. Andrew Horchler</h3>
     <p>Astrobotic</p>
   </div>
+
+  <div class="speaker-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/sj.webp" alt="Soon-Jo Chung">
+    <h3> <a href="https://www.eas.caltech.edu/people/sjchung">Prof. Soon-Jo Chung</a></h3>
+    <p>California Institute of Technology</p>
+  </div>
+
+  <div class="speaker-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/behçet-açikmeşe.jpeg" alt="Behçet Açikmeşe">
+    <h3> <a href="https://www.aa.washington.edu/facultyfinder/behcet-acikmese">Prof. Behçet Açikmeşe</a></h3>
+    <p>University of Washington</p>
+  </div>
+
+  <div class="speaker-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/kwok.jpg" alt="Sofia Kwok">
+    <h3> <a href="https://sites.google.com/view/sofiakwok/home">Sofia Kwok</a></h3>
+    <p>University of Washington</p>
+  </div>
 </div>
 
 
