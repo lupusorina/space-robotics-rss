@@ -27,4 +27,5 @@ Submissions will be selected based upon their technical merit and innovation, re
 * Papers should be submitted on [OpenReview](https://openreview.net/group?id=roboticsfoundation.org/RSS/2025/Workshop/Space_Robotics) and the deadline is **May 2 11:59PM anywhere-on-Earth**.
 * Submissions should follow the [RSS 2025 paper format](https://roboticsconference.org/information/cfp/).
 * Reviews will single-blind.
-* Accepted papers will be presented as posters, and submissions may indicate if they would additionally like to be considered for a *best student paper award*.
+* Accepted papers will be presented as posters.
+* Stellar submissions will be selected for short lighting talk presentations; additionally, submitters may indicate if they would like to be considered for a *best student paper award*.
