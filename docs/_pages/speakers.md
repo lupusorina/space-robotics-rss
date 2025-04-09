@@ -6,22 +6,29 @@ permalink: /speakers/
 ---
 
 <div class="speakers-row">
+
   <div class="speaker-item">
-    <img src="{{ site.baseurl }}/assets/images/speakers/falcone.jpg" alt="Giusy Falcone">
-    <h3> <a href="https://www.spacefalconlab.com/">Prof. Giusy Falcone</a></h3>
-    <p>University of Michigan</p>
+    <img src="{{ site.baseurl }}/assets/images/speakers/behçet-açikmeşe.jpeg" alt="Behçet Açikmeşe">
+    <h3> <a href="https://www.aa.washington.edu/facultyfinder/behcet-acikmese">Prof. Behçet Açikmeşe</a></h3>
+    <p>University of Washington</p>
   </div>
 
   <div class="speaker-item">
-    <img src="{{ site.baseurl }}/assets/images/speakers/qian.png" alt="Feifei Qian">
-    <h3> <a href="https://sites.google.com/usc.edu/roboland">Prof. Feifei Qian</a></h3>
-    <p>University of Southern California</p>
+    <img src="{{ site.baseurl }}/assets/images/speakers/sj.webp" alt="Soon-Jo Chung">
+    <h3> <a href="https://www.eas.caltech.edu/people/sjchung">Prof. Soon-Jo Chung</a></h3>
+    <p>California Institute of Technology</p>
   </div>
 
   <div class="speaker-item">
     <img src="{{ site.baseurl }}/assets/images/speakers/jp.jpg" alt="Dr. Jean-Pierre de la Croix">
     <h3> <a href="https://robotics.jpl.nasa.gov/who-we-are/people/jean-pierre_de-la-croix/">Dr. Jean-Pierre de la Croix</a></h3>
     <p>Jet Propulsion Laboratory</p>
+  </div>
+
+  <div class="speaker-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/falcone.jpg" alt="Giusy Falcone">
+    <h3> <a href="https://www.spacefalconlab.com/">Prof. Giusy Falcone</a></h3>
+    <p>University of Michigan</p>
   </div>
 </div>
 
@@ -33,24 +40,23 @@ permalink: /speakers/
   </div>
 
   <div class="speaker-item">
-    <img src="{{ site.baseurl }}/assets/images/speakers/sj.webp" alt="Soon-Jo Chung">
-    <h3> <a href="https://www.eas.caltech.edu/people/sjchung">Prof. Soon-Jo Chung</a></h3>
-    <p>California Institute of Technology</p>
-  </div>
-
-  <div class="speaker-item">
-    <img src="{{ site.baseurl }}/assets/images/speakers/behçet-açikmeşe.jpeg" alt="Behçet Açikmeşe">
-    <h3> <a href="https://www.aa.washington.edu/facultyfinder/behcet-acikmese">Prof. Behçet Açikmeşe</a></h3>
-    <p>University of Washington</p>
-  </div>
-
-  <div class="speaker-item">
     <img src="{{ site.baseurl }}/assets/images/speakers/kwok.jpg" alt="Sofia Kwok">
     <h3> <a href="https://sites.google.com/view/sofiakwok/home">Sofia Kwok</a></h3>
     <p>Starfish Space</p>
   </div>
-</div>
 
+  <div class="speaker-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/qian.png" alt="Feifei Qian">
+    <h3> <a href="https://sites.google.com/usc.edu/roboland">Prof. Feifei Qian</a></h3>
+    <p>University of Southern California</p>
+  </div>
+
+  <div class="speaker-item">
+    <img src="{{ site.baseurl }}/assets/images/speakers/yoshida.webp" alt="Kazuya Yoshida">
+    <h3> <a href="https://astro.mech.tohoku.ac.jp/e/">Prof. Kazuya Yoshida</a></h3>
+    <p>Tohoku University</p>
+  </div>
+</div>
 
 <style>
 .speakers-row {
