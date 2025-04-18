@@ -35,7 +35,7 @@ permalink: /speakers/
 <div class="speakers-row">
   <div class="speaker-item">
     <img src="{{ site.baseurl }}/assets/images/speakers/horchler.jpg" alt="Andrew Horchler">
-    <h3> Dr. Andrew Horchler</h3>
+    <h3> <a href="https://www.astrobotic.com/">Dr. Andrew Horchler</a></h3>
     <p>Astrobotic</p>
   </div>
 
