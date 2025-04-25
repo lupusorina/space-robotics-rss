@@ -20,3 +20,6 @@ In recent years, there has been a renewed surge of interest in microgravity and 
 | Paper Acceptance Notification | May 9, 2025|
 | Camera-ready Paper Deadline | May 30, 2025, 11:59PM (Anywhere on Earth) |
 | Workshop Date | June 21, 2025|
+
+>  🛰️ ***Also of interest for the community is another space robotics workshop held in Los Angeles this summer (July 28-29): the IEEE SMC-IT/SCC 2025 [Space Robotics Workshop](https://space-robots.org/spacerobotics2025/), accepting paper submissions through May 23.***
+{: .notice--info }
