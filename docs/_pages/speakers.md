@@ -8,12 +8,6 @@ permalink: /speakers/
 <div class="speakers-row">
 
   <div class="speaker-item">
-    <img src="{{ site.baseurl }}/assets/images/speakers/behçet-açikmeşe.jpeg" alt="Behçet Açikmeşe">
-    <h3> <a href="https://www.aa.washington.edu/facultyfinder/behcet-acikmese">Prof. Behçet Açikmeşe</a></h3>
-    <p>University of Washington</p>
-  </div>
-
-  <div class="speaker-item">
     <img src="{{ site.baseurl }}/assets/images/speakers/sj.webp" alt="Soon-Jo Chung">
     <h3> <a href="https://www.eas.caltech.edu/people/sjchung">Prof. Soon-Jo Chung</a></h3>
     <p>California Institute of Technology</p>
