@@ -6,6 +6,8 @@ main:
     url: schedule/
   - title: "Contribute"
     url: contribute/
+  - title: "Posters"
+    url: posters/
   - title: "Speakers"
     url: speakers/
   - title: "Organizers"
