@@ -12,6 +12,7 @@ comments: true
 | Applications of the Dyna Reinforcement Learning Architecture for Space Robotics | R. Majumdar, O. Jia-Richards  |
 | Deformable Cargo Transport in Microgravity with Astrobee† | D. Morton, R. Antonova, B. Coltin, M. Pavone, J. Bohg  |
 | Domain Adaptation and Multi-view Attention for Learnable Landmark Tracking with Sparse Data | T. Chase, K. Dantu  |
+| Flight Validation of Learning-Based Trajectory Optimization for the Astrobee Free-Flyer | S. Banerjee, A.Cauligi, M. Pavone |
 | GROVER: A Variable Height Grouser Wheel for Enhanced Terrain Adaptability | V. Griffo, Y. Nakka  |
 | Kinematic Model Optimization via Differentiable Contact Manifold for In-Space Manipulation | A. Negi, O. Manyar, S. Gupta  |
 | Near Real-Time Rectification of Satellite Imagery for Geo-located Insights† | P. Fisch, P. Chakravarty, K. Devaraj  |
