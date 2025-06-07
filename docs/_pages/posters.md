@@ -2,7 +2,7 @@
 title:  "Posters"
 layout: single
 classes: wide
-permalink: /Posters/
+permalink: /posters/
 comments: true
 ---
 
