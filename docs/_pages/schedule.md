@@ -7,7 +7,7 @@ comments: true
 
 ### Schedule
 
-[Location: Ronald Tutor Hall, Room 105, USC](https://maps.app.goo.gl/hxCwA6h3WJGbKasT7)
+Saturday, June 21st @ [Ronald Tutor Hall, Room 105, USC](https://maps.app.goo.gl/hxCwA6h3WJGbKasT7)
 
 | Time | Event |
 |------|-------|
