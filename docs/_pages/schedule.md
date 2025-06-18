@@ -7,6 +7,8 @@ comments: true
 
 ### Schedule
 
+[Location: Ronald Tutor Hall, Room 105, USC](https://maps.app.goo.gl/hxCwA6h3WJGbKasT7)
+
 | Time | Event |
 |------|-------|
 | 09:00 - 09:10 | Welcome and Introduction |
