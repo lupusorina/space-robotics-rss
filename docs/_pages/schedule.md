@@ -22,16 +22,16 @@ comments: true
   <h4>Presentation Session 1: Emerging Algorithms and Techniques</h4>
   <ul>
     <li><strong>09:10 - 09:25</strong> Prof. Feifei Qian (USC) - "Towards Terrain-aware, High-mobility Robots for Planetary Explorations" </li>
-    <li><strong>09:25 - 09:40</strong> Prof. Soon-Jo Chung (Caltech) </li>
+    <li><strong>09:25 - 09:40</strong> Prof. Soon-Jo Chung (Caltech) - "Caution and Failure: AI for Space Robotics" </li>
     <li><strong>09:45 - 10:00</strong> Prof. Kazuya Yoshida (Tohoku) - "Toward Modular and Heterogeneous AI Robots: Challenges for Lunar Exploration and Outpost Construction" </li>
-    <li><strong>10:00 - 10:15</strong> Prof. Giusy Falcone (Michigan) </li>
+    <li><strong>10:00 - 10:15</strong> Prof. Giusy Falcone (Michigan) - "From Physical Insight to Autonomy: Toward Decision-Making Systems for Space Mobility" </li>
   </ul>
 </div>
 
 <div id="session2" class="session-details" style="display: none;">
   <h4>Presentation Session 2: Flight Infusion</h4>
   <ul>
-    <li><strong>11:00 - 11:15</strong> Dr. Jean-Pierre de la Croix (NASA JPL) </li>
+    <li><strong>11:00 - 11:15</strong> Dr. Jean-Pierre de la Croix (NASA JPL) - "CADRE: A Technology Demonstration of Multi-Agent Autonomy on the Moon" </li>
     <li><strong>11:15 - 11:30</strong> Sofia Kwok (Starfish Space) - "Moving Towards Affordable and Available Satellite Servicing: Developing Novel Hardware for On-Orbit Satellite Servicing" </li>
     <li><strong>11:30 - 11:45</strong> Dr. Andrew Horchler (Astrobotic) - "Safe and Precise Lunar Landing" </li>
   </ul>
