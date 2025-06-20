@@ -8,7 +8,7 @@ comments: true
 
 | Poster Name| Authors|
 |------|-------|
-| Agile, Autonomous Spacecraft Constellations with Disruption Tolerant Networking to Monitor Precipitation and Urban Floods | S. Roy-Singh, A. Li, V. Ravindra  |
+| Agile, Autonomous Spacecraft Constellations with Disruption Tolerant Networking to Monitor Precipitation and Urban Floods | S. Roy-Singh, A. Li, V. Ravindra, R. Lammers, M. Sanchez Net  |
 | Applications of the Dyna Reinforcement Learning Architecture for Space Robotics | R. Majumdar, O. Jia-Richards  |
 | Deformable Cargo Transport in Microgravity with Astrobee† | D. Morton, R. Antonova, B. Coltin, M. Pavone, J. Bohg  |
 | Domain Adaptation and Multi-view Attention for Learnable Landmark Tracking with Sparse Data | T. Chase, K. Dantu  |
