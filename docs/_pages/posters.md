@@ -6,6 +6,10 @@ permalink: /posters/
 comments: true
 ---
 
+> Best Paper Award: GROVER: A Variable Height Grouser Wheel for Enhanced Terrain Adaptability | V. Griffo
+> Best Poster Award: Online Tree-based Planning for Active Spacecraft Fault Estimation and Collision Avoidance | J. Ragan and B. Riviere
+{: .notice--info }
+
 | Poster Name| Authors|
 |------|-------|
 | Agile, Autonomous Spacecraft Constellations with Disruption Tolerant Networking to Monitor Precipitation and Urban Floods | S. Roy-Singh, A. Li, V. Ravindra, R. Lammers, M. Sanchez Net  |
