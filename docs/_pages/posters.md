@@ -6,7 +6,8 @@ permalink: /posters/
 comments: true
 ---
 
-> Best Paper Award: GROVER: A Variable Height Grouser Wheel for Enhanced Terrain Adaptability | V. Griffo
+> Best Paper Award 1: GROVER: A Variable Height Grouser Wheel for Enhanced Terrain Adaptability | V. Griffo
+> Best Paper Award 2: Vision-Based Detection of Uncooperative Targets and Components on Small Satellites | H. Grauer
 > Best Poster Award: Online Tree-based Planning for Active Spacecraft Fault Estimation and Collision Avoidance | J. Ragan and B. Riviere
 {: .notice--info }
 
